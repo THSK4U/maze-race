@@ -2,8 +2,7 @@
 
 A small Python-based maze racing game where you and a friend compete on a randomly generated map, racing to reach the destination first to earn a point.
 
-## You can play it with many players on the same network. Look at the multiplayer branch.
-
+#### It can be played with multiple players on the same local network. Check out the [multiplayer-online](https://github.com/THSK4U/maze-race/tree/multiplayer-online) branch.
 ### Requirements
 - Python3
 - Pygame (2.1.2)
