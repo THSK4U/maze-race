@@ -2,7 +2,7 @@
 
 A small Python-based maze racing game where you and a friend compete on a randomly generated map, racing to reach the destination first to earn a point.
 
-##You can play it with many players on the same network. Look at the multiplayer branch.
+## You can play it with many players on the same network. Look at the multiplayer branch.
 
 ### Requirements
 - Python3
